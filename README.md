@@ -1,5 +1,7 @@
 # meteor-lispy
 
+BROKEN FOR NOW
+
 Add to [Meteor](http://meteor.com) support for the [Lispyscript language](http://lispyscript.com).
 
 ## Install
