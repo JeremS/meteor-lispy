@@ -1,7 +1,7 @@
 {
     "name":"meteor-lispy",
     "description": "Support for the lispyscript language",
-    "author": "Jeremy Schoffen",
+    "author": "Jeremy Schoffen <jeremys.clj@icloud.com>",
     "version": "0.1.0",
     "git": "https://github.com/JeremS/meteor-lispy"
 }
