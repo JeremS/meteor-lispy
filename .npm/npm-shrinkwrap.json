@@ -1,15 +1,7 @@
 {
   "dependencies": {
     "lispyscript": {
-      "version": "0.3.1",
-      "dependencies": {
-        "underscore": {
-          "version": "1.4.4"
-        },
-        "amd-loader": {
-          "version": "0.0.4"
-        }
-      }
+      "version": "0.3.2"
     }
   }
 }

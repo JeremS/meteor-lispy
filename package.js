@@ -2,7 +2,7 @@ Package.describe({
   summary: 'Meteor package adding lispyscript language support.'
 });
 
-Npm.depends({"lispyscript":"0.3.1"});
+Npm.depends({"lispyscript":"0.3.2"});
 
 
 var lispy_handler = function(bundle, source_path, serve_path, where) {
