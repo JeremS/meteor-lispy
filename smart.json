@@ -3,6 +3,6 @@
     "description": "Support for the lispyscript language",
     "author": "Jeremy Schoffen <jeremys.clj@icloud.com>",
     "homepage": "https://github.com/JeremS/meteor-lispy",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "git": "https://github.com/JeremS/meteor-lispy"
 }
