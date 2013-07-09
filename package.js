@@ -35,10 +35,15 @@ var lispy_handler = function(bundle, source_path, serve_path, where) {
 
 Package.register_extension("ls", lispy_handler);
 
+Package.on_use(function(api) {
+    api.add_files('.npm/node_modules/lispyscript/src/macros.ls',
+		  ['client', 'server'])
+});
 
 Package.on_test(function (api) {
   api.add_files(
-      ['test.ls',
+      ['.npm/node_modules/lispyscript/src/macros.ls',
+       'test.ls',
        'test2.js'],
       ['client', 'server']
   );

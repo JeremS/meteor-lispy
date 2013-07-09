@@ -1,3 +1,3 @@
-Tinytest.add("Test from javascript", function(api) {
+Tinytest.add("Lispyscript - Test from javascript", function(api) {
     api.equal(globallispy, 1234)
 });
